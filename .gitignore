@@ -1,0 +1,7 @@
+.pyenv
+**/agents/**/.pyenv
+**/agents/**/.env
+.vscode
+.env
+*.pyc
+.DS_Store
