@@ -1,0 +1,11 @@
+crewai
+langgraph
+langchain
+langchain-openai
+python-dotenv
+markdown
+sentence-transformers
+numpy<2.0
+openai
+pymilvus
+pymilvus[milvus_lite]
