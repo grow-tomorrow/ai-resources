@@ -6,3 +6,8 @@
 *.pyc
 .DS_Store
 .scratch
+
+# Milvus database files
+*.db
+*.db-shm
+*.db-wal
